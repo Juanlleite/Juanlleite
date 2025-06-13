@@ -13,7 +13,7 @@
 
 💬 Pergunte-me sobre **Python, Django, R... [AQUI](https://www.instagram.com/juanlleite/)**
 
-⚡ Curiosidade **Nos rascunhos iniciais de O Império Contra-Ataca, o nome completo de Yoda era Minch Yoda e ele fazia parte de um clã.**
+⚡ Curiosidade **Nos rascunhos iniciais de O Império Contra-Ataca,<br>o nome completo de Yoda era Minch Yoda e ele fazia parte de um clã.**
 
  </div>
  
