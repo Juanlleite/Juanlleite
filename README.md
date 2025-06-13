@@ -33,10 +33,10 @@
   </a>
 </div>
 
- <hr/>
+
  
 <h2 align="center">⚒️ Linguagens Frameworks Ferramentas ⚒️</h2>
-<br/>
+
 
 
 
